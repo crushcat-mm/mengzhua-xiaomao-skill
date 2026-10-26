@@ -111,7 +111,7 @@
 ## 安装
 
 ```bash
-npx skills add hotcoffeeshake/tong-jincheng-skill
+npx skills add crushcat-mm/mengzhua-xiaomao-skill
 ```
 
 然后在 Claude Code 里触发：
@@ -197,7 +197,7 @@ npx skills add hotcoffeeshake/tong-jincheng-skill
 ## 仓库结构
 
 ```
-tong-jincheng-skill/
+mengzhua-xiaomao-skill/
 ├── SKILL.md                          # 萌爪小貓视角核心文件（直接激活用这个）
 ├── README.md                         # 本文件
 └── references/
